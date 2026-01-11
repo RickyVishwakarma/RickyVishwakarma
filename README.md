@@ -2,32 +2,47 @@
 <h3 align="center">Software Engineer • Problem Solver • Systems Thinker</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricky-vishwakarma/">
+  <a href="https://www.linkedin.com/in/ricky-vishwakarma-ab5700287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rickyvishwakarm0000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ricky17">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/ricky17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👋 Overview
+## 👨‍💻 About Me
 
-> I build **efficient, scalable, and reliable software**.  
-> Strong focus on **data structures, algorithms, backend systems**, and **low-level understanding**.
+> I build **efficient, scalable, and reliable software** and dive deep into **data structures, algorithms, and system design**.
 
-- 🧠 Strong in **DSA & Problem Solving**
-- ⚙️ Exploring **systems programming & performance**
-- 🌱 Currently deepening **C++**
-- 🚀 Long-term goal: **top-tier engineering roles**
+- 🧠 Passionate about **DSA & Competitive Programming**
+- ⚙️ Building real-world applications with **backend & systems focus**
+- 🌱 Currently sharpening **C++ and problem solving skills**
+- 🚀 Goal: **Top-tier engineering roles & open source impact**
 
 ---
 
-## 🧩 Technical Stack
+## 💼 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/stephen_76/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/stephen_76" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-2EC866?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/ricky17" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-2F52BB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 <p>
@@ -47,7 +62,7 @@
 
 ---
 
-## 📈 Engineering Metrics
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricky17&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -57,15 +72,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky17&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
----
-
-## 🏗️ Current Focus
-
-- 📚 Advanced **Data Structures & Algorithms**
-- ⚡ Writing **clean, optimized C++**
-- 🔍 Understanding **how systems work under the hood**
-- 🌍 Contributing to **open source**
 
 ---
 
